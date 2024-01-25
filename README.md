@@ -1,0 +1,2 @@
+This is a data reduction and aperture photometry procedure for observational data from Astronomical Station Vidojevica at 22nd October 2023. This procedure uses python with main relatively uncommon packages are astropy, photutils, and astroalign.
+This notebook is compiled as final project for Astronomy Data Reduction course of Master in Astronomy and Space Science program of the 3rd semester in the University of Belgrade, Serbia.
